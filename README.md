@@ -1,5 +1,5 @@
-📊 Sales Strategy Experiment: Revenue Impact Analysis
-📌 Business Context
+# 📊 Sales Strategy Experiment: Revenue Impact Analysis
+## 📌 Business Context
 
 Pens and Printers launched a new line of office stationery products and tested three different sales outreach strategies to determine which approach generated the highest revenue while considering team effort.
 
